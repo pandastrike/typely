@@ -1,0 +1,24 @@
+{
+  "name": "typely",
+  "version": "0.0.0",
+  "description": "Lightweight (meaning relatively fast) type-checking in CoffeeScript. ",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "coffee test.coffee"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dyoder/typely.git"
+  },
+  "keywords": [
+    "type-checking",
+    "coffeescript",
+    ""
+  ],
+  "author": "Dan Yoder <danielyoder@gmail.com>",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "fairmont": "~0.4.1"
+  }
+}
