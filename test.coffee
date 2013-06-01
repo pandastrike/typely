@@ -13,4 +13,7 @@ multiplier = new Multiplier
 multiplier.multiply 2
 multiplier.multiply [ 3, 4, 5 ]
 
-console.log multiplier.total
+if multiplier.total == 120
+  console.log "Pass"
+else
+  console.log "Fail"
