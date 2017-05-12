@@ -1,5 +1,9 @@
 # typely
 
+> Deprecated in favor of [Fairmont multimethods](https://github.com/pandastrike/fairmont-multimethods).
+
+---
+
 A lightweight (read: relatively fast) type-checking library in CoffeeScript.
 
     {overload} = require "typely"
